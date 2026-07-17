@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Rajdeep!%20👋&fontSize=50" />
 </div>
 
-<h3 align="center">A passionate developer crafting beautiful and modern web experiences.</h3>
+<h3 align="center">A passionate developer crafting modern web and mobile experiences.</h3>
 
 <p align="center">
   <a href="https://github.com/anshuonline">
@@ -14,23 +14,36 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Awesome Web Applications** (like [Pro Biodata Generator](https://github.com/anshuonline/biodata-generator))
-- 🌱 I’m currently exploring **Advanced UI/UX, Web Performance, and Modern JS Frameworks**
-- 💬 Ask me about **Frontend Development, UI Design, & JavaScript**
-- ⚡ Fun fact: **I love combining clean code with stunning aesthetics.**
+- 🔭 I’m currently building and maintaining awesome applications.
+- 💻 Experienced in multiple tech stacks including **Web (JS/TS, PHP)** and **Mobile (Kotlin)**.
+- 🌱 Always learning and exploring new technologies.
+- ⚡ Fun fact: **I love combining clean logic with stunning aesthetics.**
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 <p align="left"> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=white" alt="Alpine.js" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
+
+---
+
+### 🏆 Top Projects
+
+| Project | Description | Technology | Link |
+|---------|-------------|------------|------|
+| **Pro Biodata Generator** | A beautiful, responsive resume & biodata generator with live preview and PDF export. | `HTML/JS/Tailwind` | [View Repo](https://github.com/anshuonline/biodata-generator) |
+| **Gana Tube** | A robust media/video application with a heavy codebase. | `TypeScript` | [View Repo](https://github.com/anshuonline/gana-tube) |
+| **Japa Counter App** | A native Android application for digital counting and tracking. | `Kotlin` | [View Repo](https://github.com/anshuonline/Japa-Counter-app) |
+| **Hypecrews** | A dynamic web application platform. | `PHP` | [View Repo](https://github.com/anshuonline/hypecrews) |
+| **Fuel Record Management** | A specialized utility system for managing records. | `JavaScript` | [View Repo](https://github.com/anshuonline/fuel-record-management-) |
 
 ---
 
@@ -47,23 +60,9 @@
 
 ---
 
-### 🏆 Top Projects
-
-| Project | Description | Link |
-|---------|-------------|------|
-| **Pro Biodata Generator** | A modern, responsive, and beautiful resume/biodata generator with live preview and PDF export. | [Repository](https://github.com/anshuonline/biodata-generator) |
-
----
-
 <h3 align="center">🤝 Connect with me</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:YOUR_EMAIL_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
   <a href="https://buymeacoffee.com/rajdeeppandit" target="_blank">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
